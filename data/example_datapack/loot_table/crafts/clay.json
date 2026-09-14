@@ -1,0 +1,34 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {"function": "set_components",
+                "components": {
+                    "!jukebox_playable": {}, "rarity": "common", "max_stack_size": 64,
+                    "item_model": "minecraft:clay_ball",
+                    "item_name": {"translate": "item.example_datapack.clay"},
+                    "custom_data": {
+                        "arbiterlib": {"namespace":"example_datapack","id":"clay"}
+                    },
+                    "lore": [
+                        {"translate":"item.example_datapack.clay.description", "color": "gray", "italic": false},
+                        {"translate":"id.example_datapack.short", "color": "blue", "italic": false}
+                    ]
+                }
+            },
+            {
+                "function": "set_count",
+                "count": 4
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

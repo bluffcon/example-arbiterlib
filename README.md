@@ -1,0 +1,16 @@
+A template/example for ArbiterLib projects. Includes the necessary functions and checks, as well as github actions.
+
+For ArbiterLib r22
+
+You need to:
+1. Clone this repo
+2. Rename `example_datapack` namespace and all occurences to your id (a-z1-9 only). Rename `ExamplePackLong` with a string name (anything)
+3. Add `MODRINTH_TOKEN` repo secret for quick publish (with upload perms)
+4. Edit `pack.mcmeta` and `mod.json` with your data
+5. Replace `license.txt` with your license
+
+Tips:
+1. Follow ArbiterLib conventions
+2. Using `[×VER×]` anywhere will replace that string with the coax version (eg. r4)
+3. When pushing a commit, make one with a `!r1` prefix to release your first version
+4. Change this file to be about your project!
