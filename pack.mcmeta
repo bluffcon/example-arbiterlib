@@ -1,13 +1,13 @@
 {
     "pack": {
         "description": [
-          	{"sprite": "item/cod", "atlas": "items"}, " ",
-			{"fallback":"Autofisher", "color":"#c2b792","underlined": true,"translate": "mcmeta.autofisher.1"},
+          	{"sprite": "item/diamond", "atlas": "items"}, " ",
+			{"fallback":"ExamplePackLong", "color":"#ca7fe7","underlined": true,"translate": "mcmeta.example_datapack.1"},
 			{"text":": ", "color":"#d7dbdd","underlined": false},
-			{"fallback":"Catch for me!", "color":"#5ebef5","underlined": false,"translate": "mcmeta.autofisher.2"},
+			{"fallback":"Your description!", "color":"#ccb4e4","underlined": false,"translate": "mcmeta.example_datapack.2"},
 			{"text":" [×VER×]","color": "#57575c"},
 			{"text":" | ","color":"#57575c","underlined": false},
-			{"fallback":" by AUTHOR + ArbiterLib", "color":"#cdcdd1","underlined": false,"translate": "mcmeta.autofisher.3"}
+			{"fallback":" by AUTHOR + ArbiterLib", "color":"#cdcdd1","underlined": false,"translate": "mcmeta.example_datapack.3"}
 		],
 
         "min_format": [101,1],

@@ -1,6 +1,6 @@
 A template/example for ArbiterLib projects. Includes the necessary functions and checks, as well as github actions.
 
-For ArbiterLib r22+
+For ArbiterLib r22+ on Minecraft 26.1.2
 
 You need to:
 1. Clone this repo
