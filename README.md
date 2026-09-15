@@ -1,4 +1,4 @@
-A template/example for ArbiterLib projects. Includes the necessary functions and checks, as well as github actions.
+A template/example for [ArbiterLib](https://github.com/bluffcon/arbiterlib) projects. Includes the necessary functions and checks, as well as github actions.
 
 For ArbiterLib r23+ on Minecraft 26.1.2
 
