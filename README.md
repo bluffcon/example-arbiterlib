@@ -1,6 +1,6 @@
 A template/example for ArbiterLib projects. Includes the necessary functions and checks, as well as github actions.
 
-For ArbiterLib r22
+For ArbiterLib r22+
 
 You need to:
 1. Clone this repo
@@ -15,3 +15,9 @@ Tips:
 3. When pushing a commit, make one with a `!r1` prefix to release your first version
 4. Don't remove block_a, use it as a quick copy instead
 5. Change this file to be about your project!
+
+Includes:
+1. Example item with an example crafting recipe
+2. Example block with example behavior
+3. Errors and tries to disable itself when ArbiterLib is missing
+4. Sends message on load
