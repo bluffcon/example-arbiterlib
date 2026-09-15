@@ -21,3 +21,4 @@ Includes:
 2. Example block with example behavior
 3. Errors and tries to disable itself when ArbiterLib is missing
 4. Sends message on load
+5. Upload script that makes github release and modrinth upload with the pack zip and mod jar
