@@ -13,4 +13,5 @@ Tips:
 1. Follow ArbiterLib conventions
 2. Using `[×VER×]` anywhere will replace that string with the coax version (eg. r4)
 3. When pushing a commit, make one with a `!r1` prefix to release your first version
-4. Change this file to be about your project!
+4. Don't remove block_a, use it as a quick copy instead
+5. Change this file to be about your project!

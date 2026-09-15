@@ -10,7 +10,7 @@
             {"function": "set_components",
                 "components": {
                     "!jukebox_playable": {}, "rarity": "common", "max_stack_size": 64,
-                    "item_model": "minecraft:clay_ball",
+                    "item_model": "arbiterlib:heart",
                     "item_name": {"translate": "item.example_datapack.clay"},
                     "custom_data": {
                         "arbiterlib": {"namespace":"example_datapack","id":"clay"}

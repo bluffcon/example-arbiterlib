@@ -13,3 +13,5 @@ if items block ~ ~ ~ container.21 bedrock \
 \
 run return run function arbiterlib:craft/workbench/craft/macro \
 {namespace:"example_datapack", loottable:"clay", rarity:"common", item:"clay", max_stack:64, count:4}
+
+
