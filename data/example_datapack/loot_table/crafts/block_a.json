@@ -39,7 +39,7 @@
                     },
                     "lore": [
                         {"translate":"item.example_datapack.a.description", "color": "gray", "italic": false},
-                        {"translate":"id.arbiterlib", "fallback": "ArbiterLib","color": "blue", "italic": false}
+                        {"translate":"id.example_datapack", "color": "blue", "italic": false}
                     ]
                 }
             }
